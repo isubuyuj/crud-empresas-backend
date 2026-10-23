@@ -21,5 +21,7 @@ export function createApp(router = empresasRouter) {
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const port = Number(process.env.PORT) || 3000;
-  createApp().listen(port, () => console.log(`API corriendo en http://localhost:${port}`));
+  createApp().listen(port, '0.0.0.0', () => {
+    console.log(`API escuchando en el puerto ${port}`);
+  });
 }
