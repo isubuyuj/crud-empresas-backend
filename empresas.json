@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombreComercial": "Supermercado El Ahorro",
+    "razonSocial": "El Ahorro S.A.",
+    "telefono": "55512345",
+    "correo": "contacto@elahorro.com",
+    "NIT": "1234567-8",
+    "estado": "Activo",
+    "direccion": "Avenida Central 123, Jutiapa"
+  },
+  {
+    "id": 2,
+    "nombreComercial": "Ferretería La Esperanza",
+    "razonSocial": "Ferretería La Esperanza S.R.L.",
+    "telefono": "45678901",
+    "correo": "ventas@laesperanza.com",
+    "NIT": "2345678-9",
+    "estado": "Activo",
+    "direccion": "Zona 1, Barrio La Esperanza, Jutiapa"
+  },
+  {
+    "id": 3,
+    "nombreComercial": "Panadería Delicias",
+    "razonSocial": "Panadería Delicias y Más",
+    "telefono": "50298765",
+    "correo": "info@delicias.com",
+    "NIT": "3456789-0",
+    "estado": "Inactivo",
+    "direccion": "6a Calle, Colonia Centroamérica, Jutiapa"
+  },
+  {
+    "id": 4,
+    "nombreComercial": "Restaurante La Parrilla",
+    "razonSocial": "La Parrilla Restaurante S.A.",
+    "telefono": "44781236",
+    "correo": "reservas@laparrilla.com",
+    "NIT": "4567890-1",
+    "estado": "Inactivo",
+    "direccion": "Boulevard Los Héroes, Jutiapa"
+  },
+  {
+    "id": 5,
+    "nombreComercial": "Farmacia Salud y Vida",
+    "razonSocial": "Farmacia Salud y Vida S.A.",
+    "telefono": "33216548",
+    "correo": "farmacia@saludyvida.com",
+    "NIT": "5678901-2",
+    "estado": "Activo",
+    "direccion": "Calle Principal, Mercado Central, Jutiapa"
+  },
+  {
+    "id": 6,
+    "nombreComercial": "TecnoSolutions",
+    "razonSocial": "TecnoSolutions Guatemala S.A.",
+    "telefono": "38954127",
+    "correo": "soporte@tecnosolutions.com",
+    "NIT": "6789012-3",
+    "estado": "Activo",
+    "direccion": "Parque Industrial, Jutiapa"
+  },
+  {
+    "id": 7,
+    "nombreComercial": "InfoGuate",
+    "razonSocial": "Desarrollo Web",
+    "telefono": "41669970",
+    "correo": "infoguate@gmail.com",
+    "NIT": "348775516-K",
+    "estado": "Activo",
+    "direccion": "6ta av. sur Castillo Majadas zona 10"
+  }
+]
